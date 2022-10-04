@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity_lesson_1</string>
+    <string name="vers1">У лукоморья дуб зеленый;</string>
+    <string name="next1">Next</string>
+    <string name="vers2">Златая цепь на дубе том:</string>
+    <string name="next2">Next</string>
+    <string name="vers3">И днем и ночью кот ученый</string>
+    <string name="next3">Next</string>
+    <string name="vers4">Всё ходит по цепи кругом;</string>
+    <string name="next4">Next</string>
+
+</resources>
